@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    overflow-y: scroll;
+    
+    }
+
+    body {
+        height: 100%;
+        box-sizing: border-box;
+      }
+
+      app-root {
+        height: 100%;
+      }

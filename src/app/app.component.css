@@ -1,0 +1,13 @@
+#form {
+    display: flex;
+    margin: 50px auto;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+}
+
+.section {
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+}
